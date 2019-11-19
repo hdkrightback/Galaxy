@@ -7,7 +7,7 @@
 About
 -------------------------------
 
-<i>Galaxy</i> is a startpage featuring a sidebar with three boxes of link, and has  a different background depending of the hour.
+<i>Galaxy</i> is a startpage featuring a sidebar with three boxes of link, and has a different background depending of the hour.
 
 Startpages are locally hosted, usually, webpage that serves as a homepage for your browser.
 
@@ -90,4 +90,5 @@ break;
 
 Report
 -------------------------------
+
 If you find some issues or bug while using this startpage, don't hesitate to report it in the comments.
